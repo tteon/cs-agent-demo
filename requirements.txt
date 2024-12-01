@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+streamlit
+pydantic  # Dependency for FastAPI
+requests # For making HTTP requests
+pandas # Optional: for data manipulation in Streamlit
+matplotlib # Optional: for advanced plotting in Streamlit
+jupyter
+langchain
+langchain-neo4j 
+langchain-openai
+langchain_community
+gqlalchemy
+memgraph
+neo4j-rust-ext==5.27.0
+neo4j==5.27.0
+ell-ai[all]
+python-dotenv
+pyvis
+networkx

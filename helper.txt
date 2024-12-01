@@ -1,0 +1,10 @@
+#docker run -itd -p 8000:8000 -p 8888:8888 -p 8501:8501 -v $(pwd):/app -w /app cs-graphrag:0.0.1
+
+With Memgraph Lab use cluster host: memgraph.memgraph
+
+u: hyperclouds
+
+p: YouWish99
+
+For external host: bolt://memgraph.chain-insights.io:30768
+
